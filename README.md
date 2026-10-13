@@ -1,4 +1,3 @@
-# vendor-selection-rfp-case-study
 # Project Horizon: WMS Vendor Selection & Implementation
 
 *Note: This is a self-directed portfolio project simulating an end-to-end business analysis and vendor selection scenario. The company, vendors, and financial data are modeled for demonstration purposes.*
